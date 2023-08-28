@@ -12,6 +12,17 @@ public class C082023L1 {
         int myNumber = 2;
         byte myByte = 1;
         boolean myBoolean = true;
+        int a = 3;
+        int b = 5;
+        char x;
+        int y;
+        int result = myNumber + b;
+        System.out.println(y = result);
+        System.out.println(myByte);
+        System.out.println();
+
+
+
 
 
 
