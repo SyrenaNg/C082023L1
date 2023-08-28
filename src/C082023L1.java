@@ -19,7 +19,9 @@ public class C082023L1 {
         int result = myNumber + b;
         System.out.println(y = result);
         System.out.println(myByte);
-        System.out.println();
+        System.out.println(a + "+" + b + "x");
+
+
 
 
 
